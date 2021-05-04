@@ -1,7 +1,10 @@
-GMLscripts.com scripts for GM:Studio
-====================================
+GMLscripts.com scripts for GM:Studio (legacy)
+=============================================
 
-This is main repository of scripts hosted by GMLscripts.com.
+This was the main repository of scripts hosted by GMLscripts.com.
+These are legacy scripts that are broken by changes introduced in 
+GameMaker Studio v2.3. They are archived and maintained here for 
+historical purposes.
 
 Guidelines for contributing
 ---------------------------
@@ -27,7 +30,7 @@ to use in your GameMaker projects. They are collectively covered
 by the broadly permissive license outlined below. If you make use
 of these scripts, please respect this license. Thank you.
 
-> Copyright (c) 2007-2020, GMLscripts.com
+> Copyright (c) 2007-2021, GMLscripts.com
 >
 > This software is provided 'as-is', without any express or implied
 > warranty. In no event will the authors be held liable for any damages
