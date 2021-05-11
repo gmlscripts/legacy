@@ -3,8 +3,8 @@ GMLscripts.com scripts for GM:Studio (legacy)
 
 This was the main repository of scripts hosted by GMLscripts.com.
 These are legacy scripts that are broken by changes introduced in 
-GameMaker Studio v2.3. They are archived and maintained here for 
-historical purposes.
+GameMaker Studio v2.3. Several do not work in any version of GMS2.
+They are archived and maintained here for historical purposes.
 
 Guidelines for contributing
 ---------------------------
