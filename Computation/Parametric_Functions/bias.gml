@@ -3,7 +3,7 @@
 //
 //  Returns the given value with a bias function applied to it.
 //
-//      b           bais, real
+//      b           bias, real
 //      x           value, real
 //
 //  If x varies over the [0,1] interval, then the result also
