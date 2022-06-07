@@ -18,11 +18,13 @@
     var seedy = argument2;
     var newval = argument3;
  
+    var oldval = grid[# seedx, seedy];
+    
+    if (newval == oldval) return 0;
+ 
     var w = ds_grid_width(grid);
     var h = ds_grid_height(grid);
    
-    var oldval = grid[# seedx, seedy];
- 
     var stackx = ds_queue_create();
     var stacky = ds_queue_create();
    
